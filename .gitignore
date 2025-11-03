@@ -48,4 +48,6 @@ Thumbs.db
 # Data files (optional - uncomment if you want to exclude large data files)
 # *.xlsx
 # *.csv
-# *.pdf
+
+# Large PDF files
+articles/*.pdf

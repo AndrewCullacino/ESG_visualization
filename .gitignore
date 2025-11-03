@@ -45,9 +45,13 @@ wheels/
 .DS_Store
 Thumbs.db
 
-# Data files (optional - uncomment if you want to exclude large data files)
-# *.xlsx
-# *.csv
+# Data files - exclude all generated outputs
+*.xlsx
+*.csv
 
-# Large PDF files
+# PDF files
+*.pdf
 articles/*.pdf
+
+# Generated visualizations
+*.png

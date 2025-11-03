@@ -1,0 +1,11 @@
+﻿技术ID,技术名称,类别,减排率,单位成本,实施周期(月),年度节省,维护成本,成本效益
+D_TECH_001,LED照明改造 (LED Lighting Retrofit),Energy Efficiency,0.03,5000,1,1500,200,6e-06
+D_TECH_002,定时器自动控制 (Timer Control),Automation,0.02,3000,1,1000,150,6.666666666666667e-06
+D_TECH_003,设备维护优化 (Equipment Maintenance),Operations,0.025,4000,2,1200,300,6.25e-06
+D_TECH_004,能源计量表安装 (Energy Metering),Monitoring,0.015,2500,1,800,100,6e-06
+D_TECH_005,简易保温改造 (Basic Insulation),Energy Efficiency,0.02,3500,2,900,150,5.7142857142857145e-06
+D_TECH_006,空调温控优化 (HVAC Optimization),Energy Efficiency,0.018,2800,1,750,120,6.428571428571428e-06
+D_TECH_007,节能风机安装 (Energy-Efficient Fans),Equipment,0.022,4200,2,1100,180,5.238095238095238e-06
+D_TECH_008,用水优化管理 (Water Usage Optimization),Operations,0.012,2000,1,600,80,6e-06
+D_TECH_009,压缩空气泄漏检测 (Air Leak Detection),Maintenance,0.015,2200,1,700,100,6.818181818181818e-06
+D_TECH_010,操作培训基础版 (Basic Operation Training),Training,0.01,1500,1,500,50,6.666666666666667e-06
